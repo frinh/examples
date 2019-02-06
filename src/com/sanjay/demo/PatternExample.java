@@ -7,6 +7,7 @@ public class PatternExample {
 				System.out.print("*");
 			}
 			System.out.println();
+			
 		}
 	}
 
